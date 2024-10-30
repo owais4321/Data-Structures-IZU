@@ -28,9 +28,9 @@ Each topic is covered with:
 - Basic knowledge of C++: Familiarity with syntax, classes, pointers, and functions is recommended.
 
 ## Contact
-If you have any questions or suggestions, please feel free to reach out:
+If you have any questions or suggestions, please feel free to reach out
 
-Instructor: Muhammad Owais Raza
+<!-- Instructor: Muhammad Owais Raza
 
-Email: your_email@izu.edu.tr
+Email: your_email@izu.edu.tr -->
 
